@@ -1,0 +1,37 @@
+body{
+	background-color:#add8e6;
+	font-weight: bold
+}
+
+.box-1{
+
+	border-right: 5px black solid;
+	border-left:5px black solid;
+	border-top:5px black solid;
+	border-bottom:5px black solid;
+
+	
+}
+
+a{color:blue;}
+a:hover{color: white;}
+
+header{
+text-align: center;
+background: coral;	
+}
+
+h1{text-align: center;}
+
+h2{text-align: center;}
+
+.image-container{
+text-align:center;
+}
+
+p{font-size: 20px;
+line-height: 1.6em;}
+
+.greatness{ font-size: 20px;
+}
+

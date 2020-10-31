@@ -1,0 +1,53 @@
+body{
+	Background: grey;
+}
+
+h2{text-align: center;
+border-right: 3px black solid;
+	border-left:3px black solid;
+	border-top:3px black solid;
+	border-bottom:3px black solid;
+	background: black;
+	color: grey;
+}
+
+h1{text-align: center; background: black;
+ color: grey;}
+
+footer{ background: black; 
+
+}
+
+nav{text-align: center;  
+color: white; }
+
+form{ align-content: left }
+
+a{color: white;
+}
+
+table.center{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr{ font-size: 20px
+}
+
+.NL{ font-size: 20px;
+}
+
+a:hover{ color: yellow;
+
+}
+
+.wrapper{ font-family:tohoma,geneva,sans-serif;
+font-size; line-height:2.0em; margin-left: 10px; margin-right: 10px; }
+
+.image-container{
+	text-align: center;
+}
+
+ 
+
+
